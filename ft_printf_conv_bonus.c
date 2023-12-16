@@ -59,9 +59,7 @@ t_str	*ft_bad(t_spec spec)
 {
 	char	*str;
 	t_str	*conv;
-	int		i;
 
-	i = 0;
 	str = malloc(27);
 	if (str == NULL)
 		return (NULL);
