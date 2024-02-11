@@ -19,13 +19,13 @@ You have to implement the following conversions:
 • %X Prints a number in hexadecimal (base 16) uppercase format.  
 • %% Prints a percent sign.  
 
-__bonuses:__
+__bonuses:__  
 • Manage any combination of the following flags: ’-0.’ and the field minimum width under all conversions.  
 • Manage all the following flags: \’\#\ \+\’ (Yes, one of them is a space)  
 
 I also added %b and %o.  
 
-#Usage
+# Usage
 
 `make` or `make bonus`.  
 Call ft\_printf.  
